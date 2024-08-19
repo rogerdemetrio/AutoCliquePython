@@ -1,4 +1,4 @@
-# NoteMoreMe
+# AutoCliquePython
 
 Esse projeto foi realizado usando Python com as frameworks time e pyautogui, onde foi criado uma aplicação que move o ponteiro do mouse para pontos preconfigurados especificos da tela, e clica nos botões das coordenadas passadas nas variaveis.
 
