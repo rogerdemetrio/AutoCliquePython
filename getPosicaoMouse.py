@@ -7,3 +7,4 @@ import time
 mx,my = pa.position()   # pega a posição do mouse e passa pras variáveis
 time.sleep(1)           # espera 2 segundos
 print(f'({mx},{my})')   # printa no terminal as coordenadas onde o mouse está no momento
+
